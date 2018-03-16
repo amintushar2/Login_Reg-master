@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login_Reg</string>
+    <string name="new_here">New Here ?</string>
+    <string name="signup_now">SignUp Now</string>
+    <string name="ready_sigup">All Ready Sigup Here?</string>
+    <string name="click_here">Click Here</string>
+    <string name="send">Send</string>
+</resources>
